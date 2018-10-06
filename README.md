@@ -1,2 +1,6 @@
-# clases_hidrologia_notebook
-Repositorio con algunos notebooks de Jupyter para cursos de hidrología orientados a programas de pregrado en ingeniería civil y ambiental
+# Clases hidrologia notebook
+
+Por: Augusto Sisa
+
+
+Este repositorio contiene algunos notebooks de Jupyter utilizables como ayuda didactica en cursos de hidrología de programas de pregrado en ingeniería civil y ambiental
