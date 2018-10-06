@@ -1,4 +1,4 @@
-# Clases hidrologia notebook
+# Notebooks para clases de hidrologia
 
 Por: Augusto Sisa
 
